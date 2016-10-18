@@ -15,7 +15,7 @@ Creating a page where every time the user hits the "Roll Dice" button, the scree
 3) If the Dice Roll has been hit run the diceRoll function. (hint below)
 
 */
-
+alert("hello");
 // Use this to trigger a diceRoll function that you must define
 document.getElementById('roll-dice').onclick = diceRoll;
 
